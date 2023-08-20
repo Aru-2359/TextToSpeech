@@ -23,7 +23,7 @@ In the current digital era, usability and accessibility are crucial. By offering
 - **Customization Options:** Users can customize the listening experience to their tastes by adjusting variables like speech rate, pitch, and voice choice.
 
 ## Demo
--https://aru-2359.github.io/TextToSpeech.github.io/ :whale2::whale2:
+https://aru-2359.github.io/TextToSpeech.github.io/ :whale2::whale2:
 
 ## Usage
 
