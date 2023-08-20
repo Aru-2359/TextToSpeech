@@ -1,6 +1,7 @@
 # Text-to-Speech Converter :speech_balloon:
 
 Thank you for visiting the Text-to-Speech Converter project! This project combines HTML, CSS, and JavaScript to produce a user-friendly tool that turns text into speech. It is a personal exploration into the world of web development.
+![Screenshot 2023-08-20 203158](https://github.com/Aru-2359/TextToSpeech.github.io/assets/107833788/0c039049-3350-43fa-a3bb-143270bc7a69)
 
 ## Table of Contents
 
