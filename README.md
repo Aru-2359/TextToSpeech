@@ -44,4 +44,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Come along as we investigate how HTML, CSS, and JavaScript may be used to produce a useful text-to-speech solution that improves accessibility and user experience.:sparkles:
 
-[CoderGirl@Arunetri💀]
